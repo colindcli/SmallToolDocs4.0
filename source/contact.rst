@@ -20,5 +20,5 @@ QQ交流群
 我要报错
 -------------
 
-  http://blog.smalltool.net/post/31.html
+  http://blog.smalltool.net/post/smalltool40.html
 

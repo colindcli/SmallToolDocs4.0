@@ -4,7 +4,7 @@
 官方网址
 ---------------
 
-  http://blog.smalltool.net/
+  https://smalltool.github.io/
 
 
 QQ交流群
@@ -20,5 +20,5 @@ QQ交流群
 我要报错
 -------------
 
-  http://blog.smalltool.net/post/smalltool40.html
+  https://github.com/SmallTool/smalltool.github.io/issues
 
